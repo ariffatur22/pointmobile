@@ -1,0 +1,8 @@
+// Ini sengaja dibuat minimal, karena semua plugin sudah di-handle settings.gradle
+allprojects {
+    repositories {
+        google()
+        mavenCentral()
+        gradlePluginPortal()
+    }
+}

@@ -1,0 +1,2 @@
+/home/ardeva/tatapoint_mobile/android/app/.cxx/release/3c5n4231/x86_64/CMakeFiles/edit_cache.dir
+/home/ardeva/tatapoint_mobile/android/app/.cxx/release/3c5n4231/x86_64/CMakeFiles/rebuild_cache.dir

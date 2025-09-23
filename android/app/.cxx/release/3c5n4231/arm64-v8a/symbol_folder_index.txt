@@ -1,0 +1,1 @@
+/home/ardeva/tatapoint_mobile/android/app/build/intermediates/cxx/release/3c5n4231/obj/arm64-v8a

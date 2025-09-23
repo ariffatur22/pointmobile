@@ -1,0 +1,28 @@
+{
+  "buildFiles": [
+    "/home/ardeva/development/flutter/packages/flutter_tools/gradle/src/main/scripts/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/home/ardeva/Android/Sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/home/ardeva/tatapoint_mobile/android/app/.cxx/release/3c5n4231/arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/home/ardeva/Android/Sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/home/ardeva/tatapoint_mobile/android/app/.cxx/release/3c5n4231/arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {},
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/home/ardeva/Android/Sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/linux-x86_64/bin/clang.lld",
+      "cppCompilerExecutable": "/home/ardeva/Android/Sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++.lld"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": []
+}
